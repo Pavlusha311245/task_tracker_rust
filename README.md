@@ -2,6 +2,8 @@
 
 A simple task tracker CLI application
 
+Project built as part of the educational content provided by [Roadmap.sh](https://roadmap.sh/projects/task-tracker)
+
 ## Installation
 
 1. Clone the repository
